@@ -1,0 +1,4 @@
+module HarmoniqSyncPackageTests {
+    header "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/arm64-apple-macosx/debug/HarmoniqSyncPackageTests.build/HarmoniqSyncPackageTests-Swift.h"
+    requires objc
+}

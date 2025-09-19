@@ -1,0 +1,4 @@
+module HarmoniqSyncCore {
+    umbrella "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/Sources/HarmoniqSyncCore/include"
+    export *
+}

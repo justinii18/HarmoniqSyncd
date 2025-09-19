@@ -1,0 +1,47 @@
+{
+  "": {
+    "swift-dependencies": "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/arm64-apple-macosx/debug/SyncCLI.build/master.swiftdeps"
+  },
+  "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/Sources/SyncCLI/AudioFileAnalyzer.swift": {
+    "dependencies": "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/arm64-apple-macosx/debug/SyncCLI.build/AudioFileAnalyzer.d",
+    "object": "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/arm64-apple-macosx/debug/SyncCLI.build/AudioFileAnalyzer.swift.o",
+    "swiftmodule": "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/arm64-apple-macosx/debug/SyncCLI.build/AudioFileAnalyzer~partial.swiftmodule",
+    "swift-dependencies": "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/arm64-apple-macosx/debug/SyncCLI.build/AudioFileAnalyzer.swiftdeps"
+  },
+  "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/Sources/SyncCLI/BatchProcessor.swift": {
+    "dependencies": "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/arm64-apple-macosx/debug/SyncCLI.build/BatchProcessor.d",
+    "object": "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/arm64-apple-macosx/debug/SyncCLI.build/BatchProcessor.swift.o",
+    "swiftmodule": "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/arm64-apple-macosx/debug/SyncCLI.build/BatchProcessor~partial.swiftmodule",
+    "swift-dependencies": "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/arm64-apple-macosx/debug/SyncCLI.build/BatchProcessor.swiftdeps"
+  },
+  "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/Sources/SyncCLI/Errors.swift": {
+    "dependencies": "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/arm64-apple-macosx/debug/SyncCLI.build/Errors.d",
+    "object": "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/arm64-apple-macosx/debug/SyncCLI.build/Errors.swift.o",
+    "swiftmodule": "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/arm64-apple-macosx/debug/SyncCLI.build/Errors~partial.swiftmodule",
+    "swift-dependencies": "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/arm64-apple-macosx/debug/SyncCLI.build/Errors.swiftdeps"
+  },
+  "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/Sources/SyncCLI/OutputFormatter.swift": {
+    "dependencies": "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/arm64-apple-macosx/debug/SyncCLI.build/OutputFormatter.d",
+    "object": "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/arm64-apple-macosx/debug/SyncCLI.build/OutputFormatter.swift.o",
+    "swiftmodule": "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/arm64-apple-macosx/debug/SyncCLI.build/OutputFormatter~partial.swiftmodule",
+    "swift-dependencies": "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/arm64-apple-macosx/debug/SyncCLI.build/OutputFormatter.swiftdeps"
+  },
+  "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/Sources/SyncCLI/SignalHandler.swift": {
+    "dependencies": "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/arm64-apple-macosx/debug/SyncCLI.build/SignalHandler.d",
+    "object": "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/arm64-apple-macosx/debug/SyncCLI.build/SignalHandler.swift.o",
+    "swiftmodule": "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/arm64-apple-macosx/debug/SyncCLI.build/SignalHandler~partial.swiftmodule",
+    "swift-dependencies": "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/arm64-apple-macosx/debug/SyncCLI.build/SignalHandler.swiftdeps"
+  },
+  "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/Sources/SyncCLI/SyncProcessor.swift": {
+    "dependencies": "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/arm64-apple-macosx/debug/SyncCLI.build/SyncProcessor.d",
+    "object": "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/arm64-apple-macosx/debug/SyncCLI.build/SyncProcessor.swift.o",
+    "swiftmodule": "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/arm64-apple-macosx/debug/SyncCLI.build/SyncProcessor~partial.swiftmodule",
+    "swift-dependencies": "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/arm64-apple-macosx/debug/SyncCLI.build/SyncProcessor.swiftdeps"
+  },
+  "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/Sources/SyncCLI/main.swift": {
+    "dependencies": "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/arm64-apple-macosx/debug/SyncCLI.build/main.d",
+    "object": "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/arm64-apple-macosx/debug/SyncCLI.build/main.swift.o",
+    "swiftmodule": "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/arm64-apple-macosx/debug/SyncCLI.build/main~partial.swiftmodule",
+    "swift-dependencies": "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/arm64-apple-macosx/debug/SyncCLI.build/main.swiftdeps"
+  }
+}
