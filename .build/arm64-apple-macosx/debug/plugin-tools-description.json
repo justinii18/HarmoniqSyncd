@@ -15,8 +15,8 @@
     }
   },
   "generatedSourceTargetSet" : [
-    "GenerateManual",
-    "GenerateDoccReference"
+    "GenerateDoccReference",
+    "GenerateManual"
   ],
   "pluginDescriptions" : [
     {
@@ -1663,6 +1663,38 @@
         },
         {
           "kind" : "file",
+          "name" : "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/arm64-apple-macosx/debug/HarmoniqSyncCore.build/AdvancedGCCPHAT.cpp.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/arm64-apple-macosx/debug/HarmoniqSyncCore.build/AudioDecoder.cpp.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/arm64-apple-macosx/debug/HarmoniqSyncCore.build/AudioFingerprinting.cpp.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/arm64-apple-macosx/debug/HarmoniqSyncCore.build/FFmpegWrapper.cpp.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/arm64-apple-macosx/debug/HarmoniqSyncCore.build/PerformanceOptimizer.cpp.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/arm64-apple-macosx/debug/HarmoniqSyncCore.build/ProductionDTW.cpp.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/arm64-apple-macosx/debug/HarmoniqSyncCore.build/ProductionFFT.cpp.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/arm64-apple-macosx/debug/HarmoniqSyncCore.build/ProductionRANSAC.cpp.o"
+        },
+        {
+          "kind" : "file",
           "name" : "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/arm64-apple-macosx/debug/HarmoniqSyncCore.build/sync_core.cpp.o"
         },
         {
@@ -1810,6 +1842,38 @@
         {
           "kind" : "file",
           "name" : "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/arm64-apple-macosx/debug/HarmoniqSyncCore.build/AdvancedGCCPHAT.cpp.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/arm64-apple-macosx/debug/HarmoniqSyncCore.build/AudioDecoder.cpp.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/arm64-apple-macosx/debug/HarmoniqSyncCore.build/AudioFingerprinting.cpp.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/arm64-apple-macosx/debug/HarmoniqSyncCore.build/FFmpegWrapper.cpp.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/arm64-apple-macosx/debug/HarmoniqSyncCore.build/PerformanceOptimizer.cpp.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/arm64-apple-macosx/debug/HarmoniqSyncCore.build/ProductionDTW.cpp.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/arm64-apple-macosx/debug/HarmoniqSyncCore.build/ProductionFFT.cpp.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/arm64-apple-macosx/debug/HarmoniqSyncCore.build/ProductionRANSAC.cpp.o"
         },
         {
           "kind" : "file",
@@ -4252,6 +4316,38 @@
         },
         {
           "kind" : "file",
+          "name" : "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/arm64-apple-macosx/debug/HarmoniqSyncCore.build/AdvancedGCCPHAT.cpp.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/arm64-apple-macosx/debug/HarmoniqSyncCore.build/AudioDecoder.cpp.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/arm64-apple-macosx/debug/HarmoniqSyncCore.build/AudioFingerprinting.cpp.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/arm64-apple-macosx/debug/HarmoniqSyncCore.build/FFmpegWrapper.cpp.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/arm64-apple-macosx/debug/HarmoniqSyncCore.build/PerformanceOptimizer.cpp.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/arm64-apple-macosx/debug/HarmoniqSyncCore.build/ProductionDTW.cpp.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/arm64-apple-macosx/debug/HarmoniqSyncCore.build/ProductionFFT.cpp.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/arm64-apple-macosx/debug/HarmoniqSyncCore.build/ProductionRANSAC.cpp.o"
+        },
+        {
+          "kind" : "file",
           "name" : "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/arm64-apple-macosx/debug/HarmoniqSyncCore.build/sync_core.cpp.o"
         },
         {
@@ -6065,6 +6161,38 @@
         {
           "kind" : "file",
           "name" : "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/arm64-apple-macosx/debug/ArgumentParserToolInfo.build/ToolInfo.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/arm64-apple-macosx/debug/HarmoniqSyncCore.build/AdvancedGCCPHAT.cpp.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/arm64-apple-macosx/debug/HarmoniqSyncCore.build/AudioDecoder.cpp.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/arm64-apple-macosx/debug/HarmoniqSyncCore.build/AudioFingerprinting.cpp.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/arm64-apple-macosx/debug/HarmoniqSyncCore.build/FFmpegWrapper.cpp.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/arm64-apple-macosx/debug/HarmoniqSyncCore.build/PerformanceOptimizer.cpp.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/arm64-apple-macosx/debug/HarmoniqSyncCore.build/ProductionDTW.cpp.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/arm64-apple-macosx/debug/HarmoniqSyncCore.build/ProductionFFT.cpp.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/arm64-apple-macosx/debug/HarmoniqSyncCore.build/ProductionRANSAC.cpp.o"
         },
         {
           "kind" : "file",

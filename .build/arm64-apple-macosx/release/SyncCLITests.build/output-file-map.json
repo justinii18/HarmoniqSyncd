@@ -1,0 +1,17 @@
+{
+  "": {
+    "dependencies": "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/arm64-apple-macosx/release/SyncCLITests.build/SyncCLITests.d",
+    "object": "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/arm64-apple-macosx/release/SyncCLITests.build/SyncCLITests.o",
+    "swift-dependencies": "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/arm64-apple-macosx/release/SyncCLITests.build/master.swiftdeps"
+  },
+  "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/Tests/SyncCLITests/CLITests.swift": {
+    "object": "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/arm64-apple-macosx/release/SyncCLITests.build/CLITests.swift.o",
+    "swiftmodule": "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/arm64-apple-macosx/release/SyncCLITests.build/CLITests~partial.swiftmodule",
+    "swift-dependencies": "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/arm64-apple-macosx/release/SyncCLITests.build/CLITests.swiftdeps"
+  },
+  "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/Tests/SyncCLITests/OutputFormatterTests.swift": {
+    "object": "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/arm64-apple-macosx/release/SyncCLITests.build/OutputFormatterTests.swift.o",
+    "swiftmodule": "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/arm64-apple-macosx/release/SyncCLITests.build/OutputFormatterTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/arm64-apple-macosx/release/SyncCLITests.build/OutputFormatterTests.swiftdeps"
+  }
+}

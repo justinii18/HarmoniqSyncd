@@ -1,0 +1,4 @@
+module ArgumentParserToolInfo {
+    header "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/arm64-apple-macosx/release/ArgumentParserToolInfo-tool.build/ArgumentParserToolInfo-Swift.h"
+    requires objc
+}

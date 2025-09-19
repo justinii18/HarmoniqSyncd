@@ -1,0 +1,4 @@
+module Logging {
+    header "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/arm64-apple-macosx/release/Logging.build/Logging-Swift.h"
+    requires objc
+}

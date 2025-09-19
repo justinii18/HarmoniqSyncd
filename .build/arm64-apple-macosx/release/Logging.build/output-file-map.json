@@ -1,0 +1,27 @@
+{
+  "": {
+    "dependencies": "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/arm64-apple-macosx/release/Logging.build/Logging.d",
+    "object": "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/arm64-apple-macosx/release/Logging.build/Logging.o",
+    "swift-dependencies": "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/arm64-apple-macosx/release/Logging.build/master.swiftdeps"
+  },
+  "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/checkouts/swift-log/Sources/Logging/Locks.swift": {
+    "object": "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/arm64-apple-macosx/release/Logging.build/Locks.swift.o",
+    "swiftmodule": "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/arm64-apple-macosx/release/Logging.build/Locks~partial.swiftmodule",
+    "swift-dependencies": "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/arm64-apple-macosx/release/Logging.build/Locks.swiftdeps"
+  },
+  "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/checkouts/swift-log/Sources/Logging/LogHandler.swift": {
+    "object": "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/arm64-apple-macosx/release/Logging.build/LogHandler.swift.o",
+    "swiftmodule": "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/arm64-apple-macosx/release/Logging.build/LogHandler~partial.swiftmodule",
+    "swift-dependencies": "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/arm64-apple-macosx/release/Logging.build/LogHandler.swiftdeps"
+  },
+  "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/checkouts/swift-log/Sources/Logging/Logging.swift": {
+    "object": "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/arm64-apple-macosx/release/Logging.build/Logging.swift.o",
+    "swiftmodule": "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/arm64-apple-macosx/release/Logging.build/Logging~partial.swiftmodule",
+    "swift-dependencies": "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/arm64-apple-macosx/release/Logging.build/Logging.swiftdeps"
+  },
+  "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/checkouts/swift-log/Sources/Logging/MetadataProvider.swift": {
+    "object": "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/arm64-apple-macosx/release/Logging.build/MetadataProvider.swift.o",
+    "swiftmodule": "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/arm64-apple-macosx/release/Logging.build/MetadataProvider~partial.swiftmodule",
+    "swift-dependencies": "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/arm64-apple-macosx/release/Logging.build/MetadataProvider.swiftdeps"
+  }
+}

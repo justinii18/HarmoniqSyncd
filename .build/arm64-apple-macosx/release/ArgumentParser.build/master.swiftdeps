@@ -1,0 +1,100 @@
+version: "Apple Swift version 6.1.2 (swiftlang-6.1.2.1.2 clang-1700.0.13.5)"
+options: "d12b2da5dc5659e8b05a6ef46c989a835981183332fa3ffbc4fee3d438c09213"
+build_start_time: [1758290738, 784180000]
+build_end_time: [1758290747, 53733000]
+inputs:
+  ? "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Completions/BashCompletionsGenerator.swift"
+  : [1758231945, 93786964]
+  ? "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Completions/CompletionsGenerator.swift"
+  : [1758231945, 93909173]
+  ? "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Completions/FishCompletionsGenerator.swift"
+  : [1758231945, 94046132]
+  ? "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Completions/ZshCompletionsGenerator.swift"
+  : [1758231945, 94186216]
+  ? "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable Properties/Argument.swift"
+  : [1758231945, 98566990]
+  ? "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable Properties/ArgumentDiscussion.swift"
+  : [1758231945, 98694282]
+  ? "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable Properties/ArgumentHelp.swift"
+  : [1758231945, 98820866]
+  ? "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable Properties/ArgumentVisibility.swift"
+  : [1758231945, 98917867]
+  ? "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable Properties/CompletionKind.swift"
+  : [1758231945, 99047826]
+  ? "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable Properties/Errors.swift"
+  : [1758231945, 99155243]
+  ? "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable Properties/Flag.swift"
+  : [1758231945, 99334244]
+  ? "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable Properties/NameSpecification.swift"
+  : [1758231945, 99460453]
+  ? "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable Properties/Option.swift"
+  : [1758231945, 99643079]
+  ? "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable Properties/OptionGroup.swift"
+  : [1758231945, 99768704]
+  ? "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable Types/AsyncParsableCommand.swift"
+  : [1758231945, 99929330]
+  ? "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable Types/CommandConfiguration.swift"
+  : [1758231945, 100075081]
+  ? "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable Types/CommandGroup.swift"
+  : [1758231945, 100215832]
+  ? "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable Types/EnumerableFlag.swift"
+  : [1758231945, 100326041]
+  ? "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable Types/ExpressibleByArgument.swift"
+  : [1758231945, 100434083]
+  ? "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable Types/ParsableArguments.swift"
+  : [1758231945, 100596834]
+  ? "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable Types/ParsableCommand.swift"
+  : [1758231945, 100748168]
+  ? "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsing/ArgumentDecoder.swift"
+  : [1758231945, 100959503]
+  ? "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsing/ArgumentDefinition.swift"
+  : [1758231945, 101153337]
+  ? "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsing/ArgumentSet.swift"
+  : [1758231945, 101382588]
+  ? "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsing/CommandParser.swift"
+  : [1758231945, 101581339]
+  ? "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsing/InputKey.swift"
+  : [1758231945, 101698173]
+  ? "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsing/InputOrigin.swift"
+  : [1758231945, 101799007]
+  "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsing/Name.swift": [1758231945, 101900674]
+  "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsing/Parsed.swift": [1758231945, 101995800]
+  ? "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsing/ParsedValues.swift"
+  : [1758231945, 102084175]
+  ? "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsing/ParserError.swift"
+  : [1758231945, 102175301]
+  ? "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsing/SplitArguments.swift"
+  : [1758231945, 102308677]
+  ? "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Usage/DumpHelpGenerator.swift"
+  : [1758231945, 102458552]
+  ? "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Usage/HelpCommand.swift"
+  : [1758231945, 102556678]
+  ? "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Usage/HelpGenerator.swift"
+  : [1758231945, 102686929]
+  ? "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Usage/MessageInfo.swift"
+  : [1758231945, 102799513]
+  ? "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Usage/UsageGenerator.swift"
+  : [1758231945, 102935097]
+  ? "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Utilities/CollectionExtensions.swift"
+  : [1758231945, 103078722]
+  ? "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Utilities/Mutex.swift"
+  : [1758231945, 103166098]
+  ? "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Utilities/Platform.swift"
+  : [1758231945, 103269057]
+  ? "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Utilities/SequenceExtensions.swift"
+  : [1758231945, 103349599]
+  ? "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Utilities/StringExtensions.swift"
+  : [1758231945, 103479891]
+  ? "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Utilities/SwiftExtensions.swift"
+  : [1758231945, 103564808]
+  "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Utilities/Tree.swift": [1758231945, 103663559]
+  ? "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Validators/CodingKeyValidator.swift"
+  : [1758231945, 103813518]
+  ? "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Validators/NonsenseFlagsValidator.swift"
+  : [1758231945, 103901310]
+  ? "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Validators/ParsableArgumentsValidation.swift"
+  : [1758231945, 104019811]
+  ? "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Validators/PositionalArgumentsValidator.swift"
+  : [1758231945, 104112728]
+  ? "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Validators/UniqueNamesValidator.swift"
+  : [1758231945, 104199104]

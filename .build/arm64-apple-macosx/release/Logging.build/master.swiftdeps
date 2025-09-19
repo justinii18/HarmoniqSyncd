@@ -1,0 +1,9 @@
+version: "Apple Swift version 6.1.2 (swiftlang-6.1.2.1.2 clang-1700.0.13.5)"
+options: "5ec5b6931f312edd4bea258701418ca9ef232c43879c3c5bd5d16657d61a878b"
+build_start_time: [1758290737, 387683000]
+build_end_time: [1758290739, 859570000]
+inputs:
+  "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/checkouts/swift-log/Sources/Logging/Locks.swift": [1758231944, 986036133]
+  "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/checkouts/swift-log/Sources/Logging/LogHandler.swift": [1758231944, 986313760]
+  "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/checkouts/swift-log/Sources/Logging/Logging.swift": [1758231944, 986607678]
+  "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/checkouts/swift-log/Sources/Logging/MetadataProvider.swift": [1758231944, 986720887]

@@ -1,0 +1,7 @@
+version: "Apple Swift version 6.1.2 (swiftlang-6.1.2.1.2 clang-1700.0.13.5)"
+options: "afd4ba12bd14a26d3dbbfcf084a5263f4e4604563e369d0cb9b384347df64c40"
+build_start_time: [1758290737, 387675000]
+build_end_time: [1758290738, 672013000]
+inputs:
+  ? "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/checkouts/swift-argument-parser/Sources/ArgumentParserToolInfo/ToolInfo.swift"
+  : [1758231945, 104886315]

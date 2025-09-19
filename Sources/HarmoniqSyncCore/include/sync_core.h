@@ -107,6 +107,7 @@ sync_ransac_params_t sync_get_default_ransac_params(void);
 #define SYNC_ERROR_FFT_FAILURE -4
 #define SYNC_ERROR_CONVERGENCE_FAILURE -5
 #define SYNC_ERROR_NO_ALIGNMENT_FOUND -6
+#define SYNC_ERROR_INITIALIZATION_FAILED -7
 
 #ifdef __cplusplus
 }

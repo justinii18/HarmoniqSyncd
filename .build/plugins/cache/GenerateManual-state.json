@@ -46,6 +46,7 @@
     "COLORTERM" : "truecolor",
     "COREPACK_ENABLE_AUTO_PIN" : "0",
     "CPATH" : "/usr/local/include",
+    "EXTENSION_KIT_EXTENSION_TYPE" : "2",
     "GIT_EDITOR" : "true",
     "HOME" : "/Users/jay",
     "HOMEBREW_CELLAR" : "/opt/homebrew/Cellar",
@@ -56,11 +57,13 @@
     "LIBRARY_PATH" : "/usr/local/lib",
     "LOGNAME" : "jay",
     "MANPATH" : "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk/usr/share/man:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/usr/share/man:/Applications/Xcode.app/Contents/Developer/usr/share/man:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/share/man:",
-    "OLDPWD" : "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/Harmoniq Sync",
+    "MallocNanoZone" : "1",
+    "MallocSpaceEfficient" : "1",
+    "OLDPWD" : "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd",
     "OSLogRateLimit" : "64",
     "OTEL_EXPORTER_OTLP_METRICS_TEMPORALITY_PREFERENCE" : "delta",
     "PATH" : "/opt/homebrew/bin:/opt/homebrew/sbin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin:/Library/Apple/usr/bin:/Users/jay/.cargo/bin:/Users/jay/Library/Application Support/JetBrains/Toolbox/scripts",
-    "PWD" : "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/Harmoniq Sync",
+    "PWD" : "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd",
     "SDKROOT" : "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.5.sdk",
     "SHELL" : "/bin/zsh",
     "SHLVL" : "2",
@@ -72,7 +75,7 @@
     "__CFBundleIdentifier" : "com.apple.Terminal",
     "__CF_USER_TEXT_ENCODING" : "0x1F5:0:2"
   },
-  "inputHash" : "e47c7f4f80251b823e45010056ac5038faa921c6ba7287a7400c5f02187ef11f",
+  "inputHash" : "4669c6c7af35a1c66654b0799817fa9de0cf21933c9404d0ac65ef03e789d760",
   "output" : "",
   "result" : {
     "exit" : {

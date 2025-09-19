@@ -48,6 +48,14 @@
 /Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/arm64-apple-macosx/debug/ArgumentParser.build/UsageGenerator.swift.o
 /Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/arm64-apple-macosx/debug/ArgumentParser.build/ZshCompletionsGenerator.swift.o
 /Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/arm64-apple-macosx/debug/ArgumentParserToolInfo.build/ToolInfo.swift.o
+/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/arm64-apple-macosx/debug/HarmoniqSyncCore.build/AdvancedGCCPHAT.cpp.o
+/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/arm64-apple-macosx/debug/HarmoniqSyncCore.build/AudioDecoder.cpp.o
+/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/arm64-apple-macosx/debug/HarmoniqSyncCore.build/AudioFingerprinting.cpp.o
+/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/arm64-apple-macosx/debug/HarmoniqSyncCore.build/FFmpegWrapper.cpp.o
+/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/arm64-apple-macosx/debug/HarmoniqSyncCore.build/PerformanceOptimizer.cpp.o
+/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/arm64-apple-macosx/debug/HarmoniqSyncCore.build/ProductionDTW.cpp.o
+/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/arm64-apple-macosx/debug/HarmoniqSyncCore.build/ProductionFFT.cpp.o
+/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/arm64-apple-macosx/debug/HarmoniqSyncCore.build/ProductionRANSAC.cpp.o
 /Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/arm64-apple-macosx/debug/HarmoniqSyncCore.build/sync_core.cpp.o
 /Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/arm64-apple-macosx/debug/Logging.build/Locks.swift.o
 /Users/jay/Documents/Harm-Swift/HarmoniqSyncd/.build/arm64-apple-macosx/debug/Logging.build/LogHandler.swift.o

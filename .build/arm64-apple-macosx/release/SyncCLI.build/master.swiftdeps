@@ -1,0 +1,12 @@
+version: "Apple Swift version 6.1.2 (swiftlang-6.1.2.1.2 clang-1700.0.13.5)"
+options: "30e867d98bfc02686f060bfb059ddb7a59ab491bef77d327913e2aeb801390b2"
+build_start_time: [1758292564, 269001000]
+build_end_time: [1758292565, 637952000]
+inputs:
+  "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/Sources/SyncCLI/AudioFileAnalyzer.swift": [1758231842, 412081809]
+  "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/Sources/SyncCLI/BatchProcessor.swift": [1758231826, 622345270]
+  "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/Sources/SyncCLI/Errors.swift": [1758231956, 819202769]
+  "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/Sources/SyncCLI/OutputFormatter.swift": [1758231807, 630423727]
+  "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/Sources/SyncCLI/SignalHandler.swift": [1758231856, 372266489]
+  "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/Sources/SyncCLI/SyncProcessor.swift": [1758231770, 969389728]
+  "/Users/jay/Documents/Harm-Swift/HarmoniqSyncd/Sources/SyncCLI/main.swift": [1758232286, 232634520]
